@@ -1,4 +1,4 @@
-# 
+# secure dydx trading bot | MEV-strategies + impermanent-loss-protection is the best dydx trading bot, featuring MEV-strategies and impermanent-loss-protection. Smart, fast, and
 
 
 
